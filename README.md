@@ -1,4 +1,4 @@
-# Forked from Python Photomosaic
+# Cloned from Python Photomosaic
 - Added target image resizing
 - Added tile filter settings
 - Added tile resolution options
